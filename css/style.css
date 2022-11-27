@@ -432,7 +432,7 @@ a {
       top: 0;
       background: rgba(0, 0, 0, 0.4); }
   .site-blocks-cover .player {
-    position: absolute;
+    position: inherit;
     bottom: -250px;
     width: 100%; }
   .site-blocks-cover, .site-blocks-cover .row {
